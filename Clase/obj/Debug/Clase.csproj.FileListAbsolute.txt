@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Clase\Clase\bin\Debug\Clase.exe.config
+C:\Users\USER\source\repos\Clase\Clase\bin\Debug\Clase.exe
+C:\Users\USER\source\repos\Clase\Clase\bin\Debug\Clase.pdb
+C:\Users\USER\source\repos\Clase\Clase\obj\Debug\Clase.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Clase\Clase\obj\Debug\Clase.Form1.resources
+C:\Users\USER\source\repos\Clase\Clase\obj\Debug\Clase.Properties.Resources.resources
+C:\Users\USER\source\repos\Clase\Clase\obj\Debug\Clase.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Clase\Clase\obj\Debug\Clase.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Clase\Clase\obj\Debug\Clase.exe
+C:\Users\USER\source\repos\Clase\Clase\obj\Debug\Clase.pdb
